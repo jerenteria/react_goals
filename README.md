@@ -5,3 +5,5 @@
 ### I also learned how to take in user input by creating and rendering forms, then rendering the data into the UI. 
 
 ### React seemed intimdating at first but when I learned that all React was just broken down small pieces of reusable code called components. It really made it easier for me to understand how everything starts to work together
+
+### Feel free to check out my other projects as I am always creating and finding ways to improve!
